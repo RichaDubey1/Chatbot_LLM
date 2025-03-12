@@ -6,13 +6,13 @@ This project is a simple ChatGPT-like chatbot built using OpenAI's GPT-3.5-turbo
 
 ## 🛠️ Features
 
-Conversational AI: Uses OpenAI’s API to generate responses.
+- Conversational AI: Uses OpenAI’s API to generate responses.
 
-Session Memory: Remembers past messages in the session.
+- Session Memory: Remembers past messages in the session.
 
-Streaming Responses: Simulates a typing effect for a more natural chat experience.
+- Streaming Responses: Simulates a typing effect for a more natural chat experience.
 
-Simple UI: Built with Streamlit for easy deployment and interaction.
+- Simple UI: Built with Streamlit for easy deployment and interaction.
 
 ## 🔧 Setup & Installation
 
@@ -26,8 +26,8 @@ Prerequisites
 
 ## ⚡ Future Improvements
 
-Improve response formatting and UI design.
+- Improve response formatting and UI design.
 
-Enhance context retention for longer conversations.
+- Enhance context retention for longer conversations.
 
-Integrate more AI models and fine-tuning options
+- Integrate more AI models and fine-tuning options
