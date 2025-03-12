@@ -1,10 +1,10 @@
-ChatGPT-like Chatbot Using OpenAI & Streamlit
+# ChatGPT-like Chatbot Using OpenAI & Streamlit
 
-🚀 Overview
+## 🚀 Overview
 
 This project is a simple ChatGPT-like chatbot built using OpenAI's GPT-3.5-turbo model and Streamlit. The chatbot provides an interactive conversational experience and retains session history for a seamless user experience.
 
-🛠️ Features
+## 🛠️ Features
 
 Conversational AI: Uses OpenAI’s API to generate responses.
 
@@ -14,17 +14,17 @@ Streaming Responses: Simulates a typing effect for a more natural chat experienc
 
 Simple UI: Built with Streamlit for easy deployment and interaction.
 
-🔧 Setup & Installation
+## 🔧 Setup & Installation
 
 Prerequisites
 
-Python 3.8 or later
+- Python 3.8 or later
 
-OpenAI API key
+- OpenAI API key
 
-Required Python libraries: streamlit and openai
+- Required Python libraries: streamlit and openai
 
-⚡ Future Improvements
+## ⚡ Future Improvements
 
 Improve response formatting and UI design.
 
